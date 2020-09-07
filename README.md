@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -62,7 +62,7 @@
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">I am Taher Kanch</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">Jamea I.T team,Web Developer,Web Designer,Backend Developer,Core team</span><strong class="text-slider"></strong></p>
+          <p class="intro-subtitle"><span class="text-slider-items">T.D.F I.T team,Web Developer,Web Designer,Backend Developer,Core team</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
